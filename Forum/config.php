@@ -6,8 +6,8 @@ work correctly.
 ******************************************************/
 
 //We log to the DataBase
-mysql_connect('host', 'username', 'password');
-mysql_select_db('database_name');
+mysql_connect('mysql.agh.edu.pl', 'pbarani2', 'gLf6FDVwMvFXnQJM');
+mysql_select_db('pbarani2');
 
 //Username of the Administrator
 $admin='admin';
