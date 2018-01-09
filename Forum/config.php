@@ -10,7 +10,7 @@ mysql_connect('mysql.agh.edu.pl', 'pbarani2', 'gLf6FDVwMvFXnQJM');
 mysql_select_db('pbarani2');
 
 //Username of the Administrator
-$admin='admin';
+$admin='admin1';
 
 /******************************************************
 -----------------Optional Configuration----------------
